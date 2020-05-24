@@ -1,0 +1,6 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="vadduvill">
+    <output-path>$USER_HOME$/Desktop</output-path>
+    <root id="archive" name="vadduvill.jar" />
+  </artifact>
+</component>
